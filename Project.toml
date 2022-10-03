@@ -2,3 +2,7 @@ name = "MyTrackingFloat"
 uuid = "1d92000b-9dfd-4af1-b005-02b1565ed9c5"
 authors = ["Frida-Norlund <82037342+Frida-Norlund@users.noreply.github.com>"]
 version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
